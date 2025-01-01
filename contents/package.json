@@ -19,6 +19,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@lhs7/wheel-selector": "file:../npm"
+		"@lhs7/wheel-selector": "file:../customnpm"
 	}
 }

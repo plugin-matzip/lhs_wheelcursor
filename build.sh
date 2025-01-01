@@ -1,5 +1,5 @@
 rm -rf dist
-cd npm
+cd customnpm
 npm i
 npm run build
 cd ../views

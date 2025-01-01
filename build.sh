@@ -1,5 +1,8 @@
 rm -rf dist
-cd views
+cd npm
+npm i
+npm run build
+cd ../views
 npm i
 npm run build
 cd ../contents

@@ -1,2 +1,0 @@
-# WheelSelector
-WheelSelector-NPM

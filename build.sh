@@ -1,8 +1,5 @@
 rm -rf dist
-cd customnpm
-npm i
-npm run build
-cd ../views
+cd views
 npm i
 npm run build
 cd ../contents
